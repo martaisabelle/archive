@@ -1,0 +1,9 @@
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vscode/
+*.code-workspace
+*.log
+node_modules/
+dist/
+.envg
