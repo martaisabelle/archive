@@ -660,6 +660,12 @@ section {
 }
 .btn-discord:hover { background: var(--brown-mid); }
 
+.discord-icon{
+    width:40px;
+    height:40px;
+    object-fit:contain;
+}
+
 /* ─── FOOTER ─────────────────────────────────────────────── */
 footer {
   background: var(--brown);
